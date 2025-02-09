@@ -121,4 +121,4 @@
 - Online terminals (like JSLinux)
 
 ---
-*Note: This roadmap provides a structured approach to learning Linux command line basics. Start with Stage 1 and progressively move through the stages. Practice regularly and use the resources provided to reinforce your learning. The optional topics can be explored based on your specific needs and interests.*
+
